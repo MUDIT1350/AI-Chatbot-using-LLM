@@ -1,6 +1,5 @@
 # AI-Chatbot-Based on-LLM
-🌐 Internet Research Bot
-A Python-based web research bot that automatically searches the internet to answer user questions. Built with web scraping and search capabilities.
+🌐 A Python-based web research AI Chatbot based on LLM that automatically searches the internet to answer user questions. Built with web scraping and search capabilities.
 
 ✨ Features
 🔍 Google Search Integration: Uses Google Search to find relevant web pages
